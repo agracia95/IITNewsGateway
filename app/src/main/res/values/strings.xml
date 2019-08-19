@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IIT News Gateway</string>
+    <string name="drawer_open">Open sources drawer</string>
+    <string name="drawer_close">Close sources drawer</string>
+    <string name="api_key">79a44e3d518d4ce6829d9b1df79ec7bf</string>
+    <string name="news_sources_url">http://newsapi.org/v2/sources</string>
+    <string name="news_article_url">http://newsapi.org/v2/everything</string>
+
+</resources>

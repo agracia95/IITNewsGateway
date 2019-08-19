@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F44336</color>
+    <color name="colorPrimaryDark">#B71C1C</color>
+    <color name="colorAccent">#FF9800</color>
+
+    <color name="bright_pink">#FF007F</color>
+    <color name="red">#FF0000</color>
+    <color name="orange">#FF7F00</color>
+    <color name="green">#00FF00</color>
+    <color name="chartreuse">#7FFF00</color>
+    <color name="azure">#007FFF</color>
+    <color name="blue">#0000FF</color>
+    <color name="violet">#7F00FF</color>
+    <color name="magenta">#FF00FF</color>
+
+    <array name="text_colors">
+        <item>@color/red</item>
+        <item>@color/blue</item>
+        <item>@color/orange</item>
+        <item>@color/green</item>
+        <item>@color/magenta</item>
+        <item>@color/chartreuse</item>
+        <item>@color/azure</item>
+        <item>@color/bright_pink</item>
+        <item>@color/violet</item>
+    </array>
+</resources>
